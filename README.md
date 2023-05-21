@@ -28,3 +28,13 @@ sets related to storm and drainage water in Indore, including datasets from anyo
 Water Portal, and suitable tools from  Excel, R, Python, Tableau, and GIS software if time permits  such as ArcGIS or QGIS. The study aims to provide data 
 driven insights that can help in managing an effective storm and drainage water management plan towards reducing the impact of extreme weather events on the 
 city.
+
+References:
+
+Priyanshi Soni, Shaligram Prajapat, "Requirement Engineering Phase for  Storm, Drainage and Sewage System" Jan 7,2023
+
+Paritosh Verma, Lokesh Dangi, Anil Gehlot, Harsh Yadav, Priyanshi Soni,Shaligram Prajapat, " NRWI : Requirement Engineering Phase towards automation of Non Revenue Water of Water plus city-Indore", International Conference on Innovation and Challenges in Engineering Sciences (ICICES), 17th – 18th March, 2023
+
+Lokesh Dangi, Anil Gehlot, Harsh Yadav, Paritosh Verma, Priyanshi Soni, Shaligram Prajapat,"Innovative Secure systems for 24X7 supply of potable water to the people of Indore City", International Conference on Innovation and Challenges in Engineering Sciences (ICICES), 17th – 18th March, 2023
+
+Harsh Yadav, Lokesh Dangi, Priyanshi Soni, Paritosh Verma, Anil Gehlot, Sunny Raikwar, Shaligram Prajapat "Fostering education and awareness on water"
